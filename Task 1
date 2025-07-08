@@ -1,0 +1,7 @@
+x=int(input("\nEnter a number: "))
+y=x%2
+
+if y==1:
+    print(x , "is an odd number.\n")
+else:
+    print(x , "is an even number.\n")
